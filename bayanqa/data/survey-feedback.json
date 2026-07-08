@@ -1,0 +1,22 @@
+[
+  {
+    "service": "Document",
+    "rating": 3
+  },
+  {
+    "service": "Banking",
+    "rating": 3
+  },
+  {
+    "service": "Business",
+    "rating": 1
+  },
+  {
+    "service": "Document",
+    "rating": 2
+  },
+  {
+    "service": "Wills & Estate",
+    "rating": 2
+  }
+]
